@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+pandas
+sqlalchemy
+python-dotenv
+anthropic
+groq
